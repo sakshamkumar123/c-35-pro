@@ -48,4 +48,8 @@ if (x<=0){
  })
 }
 
+function readStock(data){
+   foodS = data.val();
+}
+
 
